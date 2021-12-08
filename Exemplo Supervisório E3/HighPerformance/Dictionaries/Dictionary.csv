@@ -1,0 +1,455 @@
+Português (Brasil);English;Español
+pt-BR;en-US;es-ES
+Rock;Rock (EN);Rock (ES)
+Ocean;Ocean (EN);Ocean (ES)
+Ground;Ground (EN);Ground (ES)
+Sapphire;Sapphire (EN);Sapphire (ES)
+Lead;Lead (EN);Lead (ES)
+Acqua;Acqua (EN);Acqua (ES)
+Janeiro;January;enero
+Fevereiro;February;febrero
+Março;March;marzo
+Abril;April;abril
+Maio;May;Mayo
+Junho;June;junio
+Julho;July;julio
+Agosto;August;agosto
+Setembro;September;septiembre
+Outubro;October;octubre
+Novembro;November;noviembre
+Dezembro;December;diciembre
+Janeiro,Fevereiro,Março,Abril,Maio,Junho,Julho,Agosto,Setembro,Outubro,Novembro,Dezembro;January,February,March,April,May,June,July,August,September,October,November,December;Enero,Febrero,Marzo,Abril,Mayo,Junio,Julio,Agosto,Septiembre,Octubre,Noviembre,Diciembre
+Domingo;Sunday;Domingo
+Segunda;Monday;lunes
+Terça;Tuesday;martes
+Quarta;Wednesday;miércoles
+Quinta;Thursday;jueves
+Sexta;Friday;viernes
+Sábado;Saturday;sábado
+Domingo,Segunda,Terça,Quarta,Quinta,Sexta,Sábado;Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday;Domingo,Lunes,Martes,Miércoles,Jueves,Viernes,Sábado
+Agora;Now;Ahora
+Hoje;Today;Hoy
+Este mês;This month;Este mes
+Este bimestre;This bimester;Este bimestre
+Este trimestre;This trimester;Este trimestre
+Este semestre;This semester;Este semestre
+Este ano;This year;Este año
+Agora|Hoje|Este mês|Este bimestre|Este trimestre|Este semestre|Este ano;Now|Today|This month|This bimester|This trimester|This semester|This year;Ahora|Hoy|Este mes|Este bimestre|Este trimestre|Este semestre|Este año
+Formato 24h;24h Format;Formato 24h
+Bem-vindo à aplicação de demonstração do HighPerformance;Welcome to the High Performance Demo application;Bienvenido a la aplicación de demostración de High Performance
+Bem-vindo a aplicação Demo do Elipse E3;Welcome to the Elipse E3 Demo application;Bienvenido a la aplicación Demo de Elipse E3
+Bem-vindo(a) ao conjunto de bibliotecas HighPerformance da Elipse Software;Welcome to Elipse Software's HighPerformance library suite;Bienvenido a la suite de bibliotecas HighPerformance de Elipse Software
+As bibliotecas HighPerformance da Elipse são um template de aplicação moderno e de alto desempenho que aceleram o desenvolvimento de aplicações SCADA, oferecendo:;Elipse's HighPerformance libraries are a modern and high performance application template that accelerate the development of SCADA applications, offering:;Las bibliotecas HighPerformance de Elipse son una plantilla de aplicación moderna y de alto rendimiento que acelera el desarrollo de aplicaciones SCADA, ofreciendo:
+Recursos de alto desempenho operacional;High operational performance features;Características de alto rendimiento operativo
+Recursos com acessibilidade visual;Features with visual accessibility;Funciones visualmente accesibles
+Flexibilidade para uso em aplicações novas ou já existentes;Flexibility for use in new or existing applications;Flexibilidad para usar en aplicaciones nuevas o existentes
+Recursos para melhoria de usabilidade;Features for improving usability;Características para mejorar la usabilidad
+O HighPerformance Template foi desenvolvido para o Elipse E3, uma plataforma HMI/SCADA ideal para:;The HighPerformance Template was developed for Elipse E3, an ideal HMI / SCADA platform for:;La plantilla HighPerformance fue desarrollada para Elipse E3, una plataforma HMI / SCADA ideal para:
+Aplicações avançadas e distribuídas;Advanced and distributed applications;Aplicaciones avanzadas y distribuidas.
+Sistemas de missão crítica;Mission-critical systems;Sistemas de misión crítica
+Centros de controle;Control centers;Centros de control
+Líder no mercado brasileiro, o Elipse E3 foi desenvolvido para atender os mais exigentes requisitos de conectividade, flexibilidade e confiabilidade. O Elipse E3 é o sistema SCADA ideal para o seu projeto, não importa o tamanho da sua necessidade.;A leader in the Brazilian market, Elipse E3 was developed to meet the most demanding requirements of connectivity, flexibility and reliability. Elipse E3 is the ideal SCADA system for your project no matter the size of your need.;Líder en el mercado brasileño, Elipse E3 ha sido desarrollado para satisfacer los más exigentes requisitos de conectividad, flexibilidad y confiabilidad. Elipse E3 es el sistema SCADA ideal para su proyecto, no importa el tamaño de su necesidad.
+As bibliotecas Elipse HighPerformance são melhor visualizadas na resolução de 1920 x 1080 pixels (Full-HD).;Elipse HighPerformance libraries are best viewed at a resolution of 1920 x 1080 pixels (Full-HD).;Las bibliotecas Elipse HighPerformance se ven mejor con una resolución de 1920 x 1080 píxeles (Full-HD).
+O ELIC é um programa que pode ser instalado separadamente, em uma DMZ, por exemplo, para receber atualizações das chaves direto dos servidores da Elipse e aplicar nas chaves em qualquer computador ou VM. As softkeys possuem data de expiração e devem, portanto, serem reprogramadas periodicamente, situação ideal para utilização do ELIC.;ELIC is a program that can be installed separately in a DMZ, for example, to receive key updates from the Elipse servers and apply them to keys on any computer or VM. The softkeys have an expiration date and should therefore be reprogrammed periodically, ideally for ELIC use.;ELIC es un programa que se puede instalar por separado en una DMZ, por ejemplo, para recibir actualizaciones de las claves directamente de los servidores de Elipse y aplicarlas a las claves de cualquier equipo o máquina virtual. Las softkeys tienen fecha de expiración y, por lo tanto, deben ser reprogramadas periódicamente, situación ideal para el uso del ELIC.
+Os processos em geral possuem carência de sistemas capazes de monitorar variáveis de campo remotamente, em tempo real.;The processes in general have a lack of systems capable of monitoring field variables remotely, in real time.;Los procesos en general carecen de sistemas capaces de monitorear variables de campo de forma remota, en tiempo real.
+Os softwares SCADA, como o Elipse E3, permitem controlar todo o processo a partir de um único centro de operações.;SCADA software, such as Elipse E3, allows you to control the entire process from a single operations center.;El software SCADA, como Elipse E3, le permite controlar todo el proceso desde un único centro de operaciones.
+Isto dispensa a necessidade de deslocamentos até os locais a serem supervisionados.;This eliminates the need to travel to the locations to be supervised.;Esto elimina la necesidad de viajar a los lugares a ser supervisados.
+A grande disponibilidade de protocolos de comunicação permite integrar a solução harmoniosamente com equipamentos de diferentes fabricantes.;The great availability of communication protocols allows to integrate the solution harmoniously with equipment from different manufacturers.;La gran disponibilidad de protocolos de comunicación permite integrar la solución armoniosamente con equipos de diferentes fabricantes.
+Isto permite preservar investimentos já realizados e diminuir custos operacionais por meio da integração de dados.;This makes it possible to preserve investments already made and reduce operating costs through data integration.;Esto permite preservar las inversiones ya realizadas y reducir los costos operativos mediante la integración de datos.
+Além disso, a manutenção centralizada, redundância nativa e a utilização de arquitetura virtualizada permitem diminuir os custos operacionais e o tempo de indisponibilidade na operação do sistema.;In addition, centralized maintenance, native redundancy and the use of virtualized architecture allow to reduce operational costs and downtime in the operation of the system.;Además, el mantenimiento centralizado, la redundancia nativa y el uso de arquitectura virtualizada permiten reducir los costos operativos y el tiempo de inactividad en la operación del sistema.
+A Elipse oferece uma visão integrada, desde a coleta, armazenamento e contextualização dos dados até a obtenção de indicadores com o uso de ferramentas analíticas.;Elipse offers an integrated view, from the collection, storage and contextualization of data to obtaining indicators using analytical tools.;Elipse ofrece una vista integrada, desde la recopilación, el almacenamiento y la contextualización de datos hasta la obtención de indicadores mediante herramientas analíticas.
+No mundo todo, empresas e governos têm buscado alcançar maior eficiência energética, além de redução nos custos e impacto ambiental em empreendimentos e edificações.;Worldwide, companies and governments have sought to achieve greater energy efficiency, in addition to reducing costs and the environmental impact of projects and buildings.;A nivel mundial, las empresas y los gobiernos han tratado de lograr una mayor eficiencia energética, además de reducir los costos y el impacto ambiental de los proyectos y edificios.
+A solução BMS (Building Management System) da Elipse integra sistemas de diferentes fabricantes com uma visão unificada dos ativos.;Elipse's BMS (Building Management System) solution integrates systems from different manufacturers with a unified view of assets.;La solución BMS (Building Management System) de Elipse integra sistemas de diferentes fabricantes con una vista unificada de los activos.
+Isto permite a operação centralizada, além de colaborar para o aumento da disponibilidade e eficiência.;This allows for centralized operation, in addition to collaborating to increase availability and efficiency.;Esto permite una operación centralizada, además de colaborar para aumentar la disponibilidad y la eficiencia.
+O setor de saneamento apresenta grandes dificuldades a serem superadas, a fim de garantir níveis satisfatórios de abastecimento.;The sanitation sector has great difficulties to overcome in order to guarantee satisfactory levels of supply.;El sector de saneamiento presenta grandes dificultades a ser superadas, a fin de garantizar niveles satisfactorios de abastecimiento.
+São problemas relacionados à falta de medições de campo, processos manuais, grande quantidade de equipamentos e geografia peculiares.;They are problems related to the lack of field measurements, manual processes, a large amount of equipment and peculiar geography.;Se trata de problemas relacionados con la falta de mediciones de campo, procesos manuales, gran cantidad de equipamientos y geografía peculiares.
+Estes problemas exigem alterações no modo formal de distribuição, maior centralização das informações e capacitação dos operadores.;These problems require changes in the formal mode of distribution, greater centralization of information and training of operators.;Estos problemas requieren cambios en el modo formal de distribución, una mayor centralización de la información y capacitación de los operadores.
+Para ajudar estas empresas a superarem seus desafios, a Elipse oferece soluções flexíveis e customizáveis para o controle e supervisão de todas as etapas do processo.;To help these companies overcome their challenges, Elipse offers flexible and customizable solutions for the control and supervision of all stages of the process.;Para ayudar a estas empresas a superar sus desafíos, Elipse ofrece soluciones flexibles y personalizables para el control y supervisión de todas las etapas del proceso.
+A biblioteca Scheduling permite ao operador executar comandos em horários definidos. São comandos de Ativação ou Ativação com Desativação.;The Scheduling library allows the operator to execute commands at defined times. These are Activation or Activation with Deactivation commands.;La biblioteca de programación permite al operador ejecutar comandos en momentos definidos. Estos son los comandos Activación o Activación con desactivación.
+É possível cadastrar até 5 (cinco) agendamentos por comando. Para fazer um agendamento, são necessários apenas dois passos:;It is possible to register up to 5 (five) schedules per command. To make an appointment, only two steps are needed:;Es posible registrar hasta 5 (cinco) programaciones por comando. Para hacer una cita, solo se necesitan dos pasos:
+1 - Selecione um objeto qualquer no Treeview, como uma lâmpada (Predial - Piso01 - Iluminação - Comandos - Sala11 - Sala de treinamento).;1 - Select any object in Treeview, such as a lamp (Building - Floor01 - Lighting - Commands - Room11 - Training room).;1 - Seleccione cualquier objeto en Treeview, como una lámpara (Edificios - Piso01 - Iluminación - Comandos - Sala11 - Sala de entrenamiento).
+2 - Em seguida, clique no ícone de agendamento exibido no dia desejado do calendário.;2 - Then click on the schedule icon displayed on the desired day of the calendar.;2 - Luego haga clic en el icono de programación que se muestra en el día deseado del calendario.
+0 - Definido pelo usuário;0 - User defined;0 - Definido por el usuario
+1 - Reconhecimento de alarme;1 - Alarm acknowledgement;1 - Reconocimiento de alarma
+Arquiteturas 2D e 3D: visões diferentes com resultados únicos;2D and 3D architectures: different views with unique results;Arquitecturas 2D y 3D: diferentes vistas con resultados únicos
+Modelo 3D;3D model;Modelo 3D
+Mais chamativo: ideal para causar impacto visual.;More striking: ideal for making a visual impact.;Más llamativo: ideal para hacer un impacto visual.
+Aproveita melhor o espaço: mais elementos em uma área menor.;Make better use of space: more elements in a smaller area.;Aproveche mejor el espacio: más elementos en un área más pequeña.
+Destaca melhor o todo do que cada elemento.;It highlights the whole better than each element.;Destaca el conjunto mejor que cada elemento.
+Modelo 2D;2D Model;Modelo 2D
+Visualmente é menos cansativo.;Visually it is less tiring.;Visualmente es menos agotador.
+Ocupa maior espaço, mas é mais legível (menos confuso).;It takes up more space, but is more readable (less confusing).;Ocupa más espacio, pero es más legible (menos confuso).
+Destaca cada elemento melhor do que o todo.;It highlights each element better than the whole.;Destaca cada elemento mejor que el todo.
+Modelo 3D é ideal para ser usado:;3D model is ideal to be used:;El modelo 3D es ideal para ser utilizado:
+Em apresentações gerenciais, comerciais e educativas.;In managerial, commercial and educational presentations.;En presentaciones gerenciales, comerciales y educativas.
+Para representar áreas muito extensas e arquiteturas complexas.;To represent very large areas and complex architectures.;Representar áreas muy grandes y arquitecturas complejas.
+Para destacar conexões entre áreas e entre conjuntos de elementos.;To highlight connections between areas and between sets of elements.;Para resaltar conexiones entre áreas y entre conjuntos de elementos.
+Em telas de navegação: do mais abrangente para o mais específico.;On navigation screens: from the most comprehensive to the most specific.;En pantallas de navegación: desde lo más completo hasta lo más específico.
+Modelo 2D é ideal para ser usado:;2D model is ideal to be used:;El modelo 2D es ideal para ser utilizado:
+Em interfaces operativas.;On operating interfaces.;En interfaces operativas.
+Para representar pequenas áreas com poucos elementos.;To represent small areas with few elements.;Representar áreas pequeñas con pocos elementos.
+Para destacar conexões entre elementos individuais.;To highlight connections between individual elements.;Para resaltar conexiones entre elementos individuales.
+Em telas com função de configuração, em nível mais específico.;On screens with a configuration function, at a more specific level.;En pantallas con una función de configuración, a un nivel más específico.
+Tela atual;Current screen;Pantalla actual
+Frame em uso;Current frame;Frame em uso
+Frames abertos por monitor;Frames opened by monitor;Frames abiertos por monitor
+Telas abertas por quadro;Screens opened per frame;Pantallas abiertas por cuadro
+Matriz de monitores;Array of monitors;Matriz de monitores
+Idiomas e temas;Idioms & Themes;Lenguas y temas
+2D;2D;2D
+3D;3D;3D
+Abas;Tabs;Pestañas
+Abas à direita;Tabs on right;Pestañas a la derecha
+Abas à esquerda;Tabs on left;Pestañas a la izquierda
+Abas abaixo;Tabs on bottom;Pestañas en la parte inferior
+Abas acima;Tabs on top;Pestañas en la parte superior
+Abas Horizontais;Horizontal Tabs;Pestañas horizontales
+Abas Verticais;Vertical Tabs;Pestañas verticales
+Agenda Geral;General Schedule;Programación General
+Agenda Lista;Scheduling List;Programación Lista
+Agendamento;Scheduling;Programación
+Ajuda;Help;Ayuda
+Alarme;Alarm;Alarma
+Alarmes;Alarms;Alarmas
+Alarmes e Eventos;Alarms and Events;Alarmas y Eventos
+Alta;High;Alta
+Alternar posição da Treeview;Switch Treeview position;Cambiar la posición de Treeview
+Altura da linha extendida:;Extended Line Height:;Altura de línea extendida:
+Ambiente;Ambient;Ambiente
+Análise de dados;Data analysis;Análisis de datos
+Analógico;Analog;Analógica
+ano(s);year(s);Cada año(s)
+Anualmente;Yearly;Anualmente
+Apenas para labels 3 e 4;Only for labels 3 and 4;Sólo para labels 3 y 4
+Aplicações;Applications;Aplicaciones
+Aplicar;Apply;Aplicar
+Aplicar filtro;Apply filter;Aplicar filtro
+Ar Condicionado;Air Conditioning;Aire Condicionado
+Arquitetura;Architecture;Arquitectura
+Até duas tensões;Up to 2 voltage values;Hasta 2 valores de voltaje
+Ativar;Activate;Activar
+Baixa;Low;Baja
+Banda Morta;Dead Band;Banda Muerta
+Banheiro;Bathroom;Cuarto de baño
+Bargraphs individuais;Individual bargraphs;Bargraphs individuales
+Bargraphs combinados;Combined bargraphs;Bargraphs combinados
+Barra 1;Bar 1;Barra 1
+Barra 2;Bar 2;Barra 2
+Barra de navegação;Navigation bar;Barra de navegación
+Browser;Browser;Navegador
+Cada ano;Each year;Cada año
+Cada dia;Each day;Cada día
+Caldeira;Boiler;Caldera
+CALDEIRA;BOILER;CALDERA
+Calendário de agendamento;Scheduling Calendar;Calendario de programacion
+Calha Parshall;Parshall flume;Canal Parshall
+CÂMERAS;CAMERAS;CÁMARAS
+Cancelar;Cancel;Cancelar
+Carregar valores;Load values;Cargar valores
+Carregar valores 1;Load values 1;Cargar valores 1
+Carregar valores 2;Load values 2;Cargar valores 2
+Carregar valores 3;Load values 3;Cargar valores 3
+Categoria:;Category:;Categoría:
+Categorias de Textos;Text Categories;Categorías de texto
+Cloro-Pós;Chlorine-Powders;Después de Cloro
+Comando;Command;Mando
+Comando Simples;Single command;Comando Simple
+Comandos;Commands;Comandos
+Combined Bar-Line Graph;Combined Bar-Line Graph;Gráfico de líneas de barras combinadas
+Comportamento;Behavior;Comportamiento
+Configuração Geral;General Configuration;Configuración general
+Contar registros;Count records;Contar registros
+CONVERSOR;CONVERTER;CONVERTIDOR
+Cores;Colors;Colores
+Cores para Destaque;Highlight Colors;Resaltar colores
+Cores para Uso Normal;Normal Usage Colors;Colores de uso normal
+Cores muito destacadas e em alto contraste com o fundo preto geram fadiga visual quando há visualização prolongada.;Highly highlighted colors and in high contrast to the black background generate visual fatigue when there is prolonged viewing.;Los colores muy resaltados y en alto contraste con el fondo negro generan fatiga visual cuando hay una visualización prolongada.
+Cores menos destacadas diminuem a sensação de fadiga visual.;Less prominent colors decrease the feeling of visual fatigue.;Los colores menos prominentes disminuyen la sensación de fatiga visual.
+Cores com ótima visualização e sem gerar fadiga visual.;Colors with great visualization and without generating visual fatigue.;Colores con gran visualización y sin generar fatiga visual.
+Dashboard;Dashboard;Tablero
+DASHBOARD;DASHBOARD;TABLERO
+Data Final;Final Date;Fecha final
+Data Inicial ;Initial Date;La fecha de inicio
+Data Pixels;Data Pixels;Píxeles de datos
+DB SERVER;DB SERVER;SERVIDOR DB
+de cada;of each;de cada
+Decantação;Decantation;Decantación
+Dentro do tema;Inside the theme;Dentro del esquema
+Desabilitar Batedor;Disable Whipper;Deshabilitar Bateador
+Desabilitar Bomba;Disable Pump;Deshabilitar la Bomba
+Desabilitar Motor;Disable Engine;Deshabilitar el Motor
+Desabilitar Válvula;Disable Valve;Deshabilitar Válvula
+Desativar;Deactivate;Desactivar
+Descompressão;Decompression;Descompresión
+Desenvolvimento;Development;Desarrollo
+Desinfecção;Disinfection;Desinfección
+DESL;OFF;OFF
+Desligar;Off;Apagado
+Destaque para pixels de dados (Data Pixels);Emphasis on Data Pixels;Énfasis en los píxeles de datos
+Dia;Day;Días
+dia;day;día
+dia(s);day(s);día(s)
+Diariamente;Daily;Diario
+Dias específicos;Specific days;Días específicos
+Digital;Digital;Digital
+Direção;Direction;dirección
+Direita;Right;derecho
+Discreto;Discrete;Discreto
+Display Combinado para aumentar a Consciência Situacional;Combined Display for Situational Awareness Increase;Pantalla combinada para el aumento de la conciencia situacional
+Displays;Displays;Muestra
+Dispositivos e Sinalizações;Devices and Signals;Dispositivos y Señales
+DMZ;DMZ;DMZ
+DMZ SERVER;DMZ SERVER;DMZ SERVER
+do;of;de
+Dosagem;Dosage;Dosificación
+Dosagem de materiais;Dosing of materials;Dosificación materiales
+E3 SERVER;E3 SERVER;SERVIDOR E3
+E3 SERVER HOT-STANDBY;E3 SERVER HOT-STANDBY;E3 SERVER HOT-STANDBY
+E3 VIEWER;E3 VIEWER;E3 VIEWER
+E3 WEB VIEWER;E3 WEB VIEWER;E3 WEB VIEWER
+Edifício;Building;Edificio
+EditMode (apenas sinalização);EditMode (indication only);EditMode (solo señalización)
+Editar filtro;Edit filter;Editar filtro
+Elementos de Biblioteca;Library Elements;Elementos de biblioteca
+Elementos de Interface;Interface Elements;Elementos de Interfaz
+Em;In;En 
+Energia líquida;Net energy;Energía neta
+EPM;EPM;EPM
+EPM SERVER;EPM SERVER;SERVIDOR EPM
+EPM VIEWER;EPM VIEWER;EPM VIEWER
+Equipamentos ganham maior destaque sobre os elementos decorativos, deixando claro quais elementos têm a prioridade funcional.;Equipment gains greater prominence over decorative elements, making it clear which elements have the functional priority.;El equipo adquiere mayor importancia sobre los elementos decorativos, dejando en claro qué elementos tienen prioridad funcional.
+Escala;Scale;Escala
+Escritório;Office;Oficina
+Esquerda;Left;izquierda
+Estado da Bomba;Pump Status;Estado de la Bomba
+Esteira-01;Treadmill-01;Estera-01
+Esteira-02;Treadmill-02;Estera-02
+Esteira-03;Treadmill-03;Estera-03
+Esteira-04;Treadmill-04;Estera-04
+Esteira-05;Treadmill-05;Estera-05
+Esteira-06;Treadmill-06;Estera-06
+Eventos;Events;Eventos
+Excesso de pixels decorativos (Non-Data Pixels);Lots of Non-Data Pixels;Montones de píxeles sin datos
+Exemplo:;Example:;Ejemplo:
+Exemplo 1;Example 1;Ejemplo 1
+Exemplo 2;Example 2;Ejemplo 2
+Exibir;Show;Espectáculo
+Exibir linha;View Line;Mostrar la línea
+Fechar;Close;Cerca
+Fechar o Viewer;Close Viewer;Cerrar Viewer
+Feriados;Holidays;Vacaciones
+Filtragem;Filtration;Filtración
+Filtro 1;Filter 1;Filtro 1
+Filtro 2;Filter 2;Filtro 2
+Filtro 3;Filter 3;Filtro 3
+Filtro 4;Filter 4;Filtro 4
+Filtros;Filters;Filtros
+Filtros, Busca e Ordenação;Filters, Search and Sorting;Filtros, Búsqueda y Clasificación
+Floculação;Flocculation;Floculación
+Floculadores;Flocculators;Floculadores
+Fora do tema;Off Topic;Fuera del tema
+Formulários;Forms;Formularios
+Fundo Cinza Escuro;Dark Gray Background;Fondo gris oscuro
+Fundo cinza escuro: permite uso de objetos mais escuros ou mais claros que o fundo;Dark Gray Background: Allows for objects that are darker or lighter than the background;Fondo gris oscuro: permite el uso de objetos más oscuros o más claros que el fondo
+Fundo Preto;Black Background;Fondo negro
+Fundo preto ainda promove alto contraste com elementos decorativos, competindo visualmente com os elementos operativos que são mais importantes.;Black background still promotes high contrast with decorative elements, visually competing with the operative elements that are most important.;El fondo negro aún promueve un alto contraste con elementos decorativos, compitiendo visualmente con los elementos operativos que son más importantes.
+Geral;General;General
+GPS;GPS;GPS
+Grades;Grids;Cuadrículas
+Gráficos;Charts;Gráficos
+Gráficos de Barras;BarGraphs;Gráficos de barras
+Gráficos de Radar;Radar Charts;Gráficos de radar
+Há contraste excessivo entre o fundo preto e os elementos decorativos. Isto gera poluição visual e tira o destaque de elementos operativos que são mais importantes.;There is excessive contrast between the black background and the decorative elements. This generates visual pollution and takes away the operational elements that are most important.;Hay un contraste excesivo entre el fondo negro y los elementos decorativos. Esto genera contaminación visual y elimina los elementos operativos que son más importantes.
+Habilitar 3 abas;Enable first 3;Habilitar los primeros 3
+Habilitar recorrência;Enable recurrence;Habilitar la recurrencia
+Habilitar todas;Enable all;Activar todo
+Hierarquia de Objetos;Objects Hierarchy;Jerarquía de Objetos
+Hipoclorito;Hypochlorite;Hipoclorito
+Horizontal;Horizontal;Horizontal
+I/O REMOTO;REMOTE I/O;E / S REMOTO
+Ícones;Icons;Iconos
+Idiomas;Languages;Idiomas
+IED;IED;IED
+IHM LOCAL;LOCAL HMI;HMI local
+Iluminação;Lighting;Iluminación
+Imprimir;Print;Imprimir
+Individual;Individual;Individual
+InitialElementID (Somente leitura);InitialElementID (Read only);InitialElementID (solo lectura)
+Interface de Usuário;User Interface;Interfaz de Usuario
+Intertravamentos;Interlocks;Enclavamientos
+INTERTRAVAMENTOS;INTERLOCKS;INTERLOCKS
+Intervalo de recorrência;Recurrence interval;Intervalo de recurrencia
+Lâmpada Sala 11;Lamp Room 11;Lámpara Room 11
+Lâmpada Sala 12;Lamp Room 12;Lámpara Room 12
+Largura da linha extendida:;Extended Line Width:;Ancho de línea extendida:
+LIG;ON;ON
+Ligar;On;En
+Limite de Alarmes Horizontal;Alarm Limit Horizontal;Límite de alarma horizontal
+Limite de Alarmes Vertical;Alarm Limit Vertical;Límite de alarma vertical
+Limite Máximo;Maximum Limit;Límite Superior
+Limite Mínimo;Minimum Limit;Límite Mínimo
+Limites;Limits;Límites
+Limites de Alarmes;Alarm Limits;Límites de alarma
+Linha:;Line:;Línea:
+Linhas com cores muito saturadas sobre fundo preto;Lines with very saturated colors on black background;Líneas con colores muy saturados sobre fondo negro
+Linhas com cores menos saturadas sobre fundo preto;Lines with less saturated colors on black background;Líneas con colores menos saturados sobre fondo negro
+Linhas com cores menos saturadas sobre fundo cinza escuro;Lines with less saturated colors on dark gray background;Líneas con colores menos saturados sobre fondo gris oscuro
+Lista de Agendamento;Scheduling List;Lista de Programacion
+Lodo;Sludge;Limo
+Mais de duas tensões: fixar cor do fundo + objetos e variar cores da linha;More than two tensions: set background color + objects and vary line colors;Más de dos tensiones: fijar el color del fondo + objetos y variar los colores de la línea
+Manutenção;Maintenance;Mantenimiento
+MANUTENÇÃO;MAINTENANCE;MANTENIMIENTO
+Matemática;Mathematics;Matemática
+Máximo:;Maximum:;Máximo:
+Mínimo:;Minimum:;Mínimo:
+Média;Medium;Media
+Medição;Measurement;Medición
+Medido:;Measured:;Mesurado:
+Meios de Visualização;Display Media;Medios de visualización
+Mensalmente;Monthly;Mensual
+mês;month;mes
+Mistura Rápida;Quick Mix;Mezcla rápida
+MOBILE CLIENT;MOBILE CLIENT;CLIENTE MÓVIL
+MOBILE SERVER;MOBILE SERVER;SERVIDOR MÓVIL
+Modo de Operação;Operation Mode;Modo de operación
+Modo de Seleção;Selection Mode;Modo de selección
+No;At;A
+Nome do Agendamento;Scheduling Name;Nombre de la Programación
+Notas;Notes;Notas
+NOTAS;NOTES;NOTAS
+Notas Operativas;Operation Notes;Notas de operación
+Notas:;Notes:;Notas:
+Número de Operações:;Number of Operations;Cantidad de operaciones
+Números, Operações e Funções;Numbers, Operations and Functions;Números, Operaciones y Funciones
+ocorrências;occurrence;ocurrencias
+Opção 1;Option 1;Opción 1
+Opção 2;Option 2;opcion 2
+Operação;Operation;Operación
+OPERAÇÃO;OPERATION;OPERACIÓN
+Operacional;Operational;Operacional
+Ordenar campo 1;Sort ascending 1;Ordenar campo 1
+Ordenar campo 2;Sort ascending 2;Ordenar campo 2
+Ordenar campo 3;Sort ascending 3;Ordenar campo 3
+Ordenar campo 4;Sort ascending 4;Ordenar campo 4
+Orientação;Guidance;Dirección
+Padrão de comando;Command pattern;Estándar de mando
+Padrão de recorrência;Recurrence pattern;Estándar de recurrencia
+Parâmetros;Parameters;Parámetros
+PARÂMETROS;PARAMETERS;PARÁMETROS
+PC-M;PC-M;PC-M
+PC-R;PC-R;PC-R
+Piso01;Floor01;Piso01
+Por favor entre com um valor dentro do intervalo permitido:;Please enter a value within the allowed range:;Por favor introduzca un valor dentro del intervalo permitido:
+Posição da Toolbar:;Toolbar position:;Posición de la barra de herramientas:
+Posição:;Position:;Posición:
+Predial;Building;Edificios
+Pressão;Pressure;Presión
+Processo;Process;Proceso
+Processos;Processes;Procesos
+Programado:;Programmed:;Programado:
+Propriedades;Properties;Propiedades
+PROPRIEDADES;PROPERTIES;PROPIEDADES
+Qualidade da Água;Water quality;Calidad del agua
+RadarChart 10;RadarChart 10;RadarChart 10
+RadarChart 9;RadarChart 9;RadarChart 9
+Recepção;Reception;Recepción
+Reconhecer filtro atual;Ack current filter;Reconocer filtro actual
+Reconhecer selecionados;Ack selected;Reconocer seleccionador
+Reconhecer todos;Ack all;Reconocer todos
+Refeitório;Refectory;Refectorio
+Remoto;Remote;Remoto
+Remover;Remove;Eliminar
+Representação dentro do tema;Representation within the theme;Representación dentro del tema.
+Representação fora do tema;Representation out of the theme;Representación fuera de tema
+Reservação;Reservation;Reserva
+Reservatório Elevado;High Reservoir;Depósito Elevado
+Rosa dos Ventos;Wind Rose;Rosa de los vientos
+ROTEADOR;ROUTER;ROUTER
+Rótulos;Labels;Etiquetas
+RTU;RTU;RTU
+Sala;Room;Sala
+Sala 11;Room 11;Sala 11
+Sala 12;Room 12;Sala 12
+Sala de reuniões;Meeting Room;Sala de Reuniones
+Sala de treinamento;Training room;Sala de entrenamiento
+Sala11;Room11;Sala11
+Sala12;Room12;Sala12
+Salvar;Save;Salvar
+Saneamento;Sanitation;Saneamiento
+Seleção:;Selection:;Selección:
+Seleção múltipla;Multiple selection;Selección múltiple
+Seleção simples;Single selection;Selección simple
+SelectedNodeReady (Somente leitura);SelectedNodeReady (Read only);SelectedNodeReady (Solo lectura)
+Sem data final;No end date;Sin fecha final
+semana na;week in the;semana en la 
+Semanalmente;Weekly;Semanal
+Sempre;Every;siempre
+Setas;Arrows;Flechas
+Severidade;Severity;Severidad
+Severidade alta;High severity;Alta severidad
+Severidade Alta;High Severity;Alta Severidad
+Severidade baixa;Low severity;Baja severidad
+Severidade Baixa;Low Severity;Baja Severidad
+Severidade média;Medium severity;Media severidad
+Severidade Média;Medium Severity;Media Severidad
+Shelved;Shelved;Shelved
+Silenciar buzina;Mute horn;Cuerno mudo
+Simular alarme;Simulate alarm;Simular alarma
+Simular todos os alarmes;Simulate all alarms;Simula todas las alarmas
+Simular valores;Simulate values;Simular valores
+Sistema de gestão Predial ;Land Management System ;Sistema de Gestión Predial 
+Subcondição;Subcondition;Subcondición
+Suprimidos;Suppressed;Suprimidos
+SWITCH;SWITCH;CAMBIAR
+Tanque de Contato;Contact Tank;Tanque de Contacto
+Tanque de Decantação;Decanting Tank;Tanque de Decantación
+Tanque de Floculação;Flocculation Tank;Tanque de Floculación
+Taxa de Variação;Rate of Change;Tasa de Variación
+Temas;Color schemes;Esquemas de color
+Temperatura;Temperature;Temperatura
+Tempo de Operação;Operation Time;Tiempo de operacion
+Termina depois;Ends after;Termina después
+Termina em;Ends at;Se termina em
+TI;IT;TI
+Tipo;Type;Tipo
+Tipos de cores;Color types;Tipos de color
+Tipos de Dados e Documentos;Data Types and Documents;Tipos de Datos y Documentos
+Título:;Title:;Título:
+Todos dias da semana;Every day of the week;Cada día de la semana
+Tradução;Translation;Traducción
+Tratamento de Água;Water Treatment;Tratamiento de agua
+Treeview;Treeview;Vista de árbol
+Treeview - Parâmetros;Treeview - Parameters;Treeview - Parámetros
+Três ou mais tensões;Three or more voltages;Tres o más voltajes
+Troca de senha;Change password;Cambia la contraseña
+Troca dinâmica de estrutura;Structure dynamic change;Estructura de cambio dinámico
+(UE);(EU);(UE)
+Umidade relativa;Relative humidity;Humedad relativa
+Unidade à direita;Unit at right;Unidad a la derecha
+Unidade à esquerda;Unit at bottom;Unidad en la parte inferior
+Unifilar;Unifilar;Unifilar
+Unifilar 1;Unifilar 1;Unifilar 1
+UNIFILAR 1;UNIFILAR 1;UNIFILAR 1
+Unifilar 2;Unifilar 2;Unifilar 2
+UNIFILAR 2;UNIFILAR 2;UNIFILAR 2
+Unifilar1;Unifilar1;Unifilar1
+Unifilar2;Unifilar2;Unifilar2
+Uso de cores - 1ª abordagem;Use of colors - 1st approach;Uso de colores: primer enfoque
+Uso de cores - 2ª abordagem;Use of colors - 2nd approach;Uso de colores: segundo enfoque
+Uso de cores - 3ª abordagem;Use of colors - 3rd approach;Uso de colores: tercer enfoque
+Valor Dinâmico;Dynamic Value;Valor dinámico
+Valor Manual;Manual Value;Valor manual
+Valor numérico;Numeric value;Valor numérico
+Vamos lá!;Let's go!;¡Vamonos!
+Variar a espessura da linha.;Vary the line thickness.;Varíe el grosor de la línea.
+Variar cores da linha, deixando-as fixas (independentes do tema).;Vary colors of the line, leaving them fixed (independent of the theme).;Varíe los colores de la línea, dejándolos fijos (independientemente del tema).
+Vertical;Vertical;Vertical
+VIDEO WALL;VIDEO WALL;PARED DE VIDEO
+Visão múltipla;Multiple view;Vista múltiple
+Visão unificada;Unified view;Vista unificada
+Zona 1;Zone 1;Zona 1
+Zona 2;Zone 2;Zona 2
+Zona 3;Zone 3;Zona 3
+Zona de Alarmes Horizontal;Alarm Zone Horizontal;Zona de alarma horizontal
+Zona de Alarmes Vertical;Alarm Zone Vertical;Zona de alarma vertical
+Zonas de Alarmes;Alarm Zones;Zonas de alarma
